@@ -10,5 +10,9 @@
   "devDependencies": {
     "nuxt": "3.0.0-rc.12",
     "unplugin-vue-macros": "^0.15.0"
+  },
+  "dependencies": {
+    "@vueuse/core": "^9.4.0",
+    "@vueuse/nuxt": "^9.4.0"
   }
 }
