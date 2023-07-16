@@ -5,6 +5,6 @@ const msg = ref('msg')
 </script>
 
 <template>
-  <b>defineModel: </b>
+  <b>defineModels: </b>
   <Child v-model:msg="msg" />
 </template>

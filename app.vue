@@ -1,6 +1,6 @@
 <script setup lang="ts">
 import DefineOptions from './examples/define-options/index.vue'
-import DefineModel from './examples/define-model/index.vue'
+import DefineModels from './examples/define-models/index.vue'
 </script>
 
 <template>
@@ -8,6 +8,6 @@ import DefineModel from './examples/define-model/index.vue'
     <h1>Nuxt App</h1>
     <DefineOptions />
     <hr />
-    <DefineModel />
+    <DefineModels />
   </div>
 </template>
